@@ -1,4 +1,21 @@
-# Piano-Tiles
-Piano Tiles Was A Game I made in 2022, which was the first game I was able to sell for 150 dollars, and although it was not my most advanced game I developed, I was incredibly proud of it since I was able to develop a 30h game in just 3 days. Furthermore, it was one of my first GUI games that I was able to develop in java.
-<br>
+### **Inspiration**  
+Piano Tiles was one of my first GUI-based games in Java, and it holds a special place in my development journey. I wanted to create a **fast-paced reaction game** that challenges players to time their taps perfectly while playing a virtual piano. This project was particularly exciting because it was the **first game I successfully sold**, making it a milestone in both my technical and entrepreneurial growth. Additionally, the project required me to work under tight deadlines while maintaining high-quality standards, giving me valuable experience in **Scrum and agile development**.  
+
+### **What it does**  
+Piano Tiles is a **reaction-based game** where players must **tap falling tiles at the right moment** to play musical notes. The game continuously spawns random tile blocks, requiring the player to react quickly and accurately. If a tile is missed, the game ends. The challenge increases as the speed of the tiles progressively gets faster, testing the player’s reflexes and timing. The game’s smooth and responsive mechanics provide an engaging and immersive user experience.  
+
+### **How I built it**  
+The game was developed in **Java using Swing and AWT** for the GUI, ensuring an interactive and visually appealing interface. I used **JUnit for testing** to validate game logic and mechanics. The game logic was structured around **abstract data types, such as ArrayLists**, to efficiently manage the positions of falling tiles in real-time. The use of **event-driven programming** allowed for seamless user interaction, ensuring that each tap was registered accurately and that the game updated smoothly. Since the project was developed for a client, I followed the **Scrum methodology**, incorporating iterative development, sprint planning, and frequent feedback cycles to meet the requirements efficiently.  
+
+### **Challenges I ran into**  
+One of the main challenges was ensuring that the game **ran smoothly without lag**, especially as the number of falling tiles increased. Optimizing **real-time updates** while keeping animations fluid required careful memory and performance management. Another challenge was implementing **precise input detection**, ensuring that taps were registered at the right moment while maintaining an intuitive gameplay feel. Additionally, working under a tight **3-day deadline** meant I had to **prioritize key features**, balancing functionality and polish to meet the client's expectations.  
+
+### **Accomplishments that I'm proud of**  
+The biggest accomplishment was **completing the game within just 3 days** while maintaining a high level of polish. This was a testament to my ability to **work efficiently under pressure** and manage time effectively. Another major milestone was **successfully selling the game for $150**, making it the first game I monetized. It was also one of my first GUI-based Java games, marking a significant step in my learning and development journey.  
+
+### **What I Learned**  
+This project reinforced my understanding of **GUI development in Java** and **event-driven programming**. I also gained experience in **handling real-time game mechanics**, including efficient data structures for managing objects dynamically. Additionally, working under a **Scrum development process** helped me understand how to **collaborate with clients, iterate on feedback, and meet tight deadlines**. Finally, the experience of selling my first game taught me about **product viability, client communication, and the business side of game development**.  
+
+### **What’s Next for Piano Tiles**  
+While the game was completed and delivered to the client, I see potential areas for improvement. If I revisit the project, I would like to **optimize performance further**, ensuring that the game remains smooth even at higher difficulty levels. Additionally, adding **customizable difficulty settings**, **different game modes**, and **multiplayer support** could make the game even more engaging. Another interesting feature to explore would be **music synchronization**, allowing the game to dynamically generate tile patterns based on actual songs.<br>
 ![PianoTilesVideo](https://github.com/user-attachments/assets/cc791054-b34f-4316-8280-dc11080761b8)
